@@ -115,7 +115,4 @@ For each question:
 4. OpenCV is used only for comparison (as allowed in assignment).
 5. Default threshold values were selected experimentally for Canny.
 
----
 
-
-Open terminal inside project folder:
